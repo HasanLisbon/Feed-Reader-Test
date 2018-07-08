@@ -6,7 +6,7 @@ This is a project by Udacity which rquires to test the functionality of the web 
 To run the test you need to open the index.html file on browser and  it will show the test results
 ## The tests:
 
-1. RSS Feeds
+1.RSS Feeds
     -are defined
     -feed URL defined
     -feed name defined
